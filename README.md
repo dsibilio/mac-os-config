@@ -22,4 +22,4 @@ In **iTerm2**, make sure to switch `Preferences > Profiles > Keys > Key Mappings
 
 Under `System Preferences > Keyboard > Shortcuts > App Shortcuts` add mappings like `Move to ASUS VG249` and  `Move to VW246` and bind them to Cmd+Shift+Left/Right. 
 
-**Make sure the name of the displays matches the one that is detected by the system.**
+**Make sure the names of the displays match the ones that are detected by the system.**
